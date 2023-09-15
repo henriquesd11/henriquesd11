@@ -1,7 +1,7 @@
 ### Opa, sou o Luiz Henrique
 
-- 👨‍💻 Hoje estou trabalhando como Full Stack
-- 👨‍🎓 Cursando Engenharia de Software
+- 👨‍💻 Desenvolvedor FullStack
+- 👨‍🎓 Formado em Engenharia de Software
 
  <div>
   <a href="https://github.com/henriquesd11">
